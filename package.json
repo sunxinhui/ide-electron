@@ -1,7 +1,7 @@
 {
-  "name": "ide-electron",
+  "name": "upclip-ide",
   "private": true,
-  "description": "OpenSumi IDE Electron 示例项目",
+  "description": "优品小程序开发工具",
   "main": "./app/main/index.js",
   "scripts": {
     "start": "electron --inspect=9229 .",
@@ -115,7 +115,7 @@
     "eslint-plugin-react": "^7.23.2",
     "fs-extra": "^8.1.0",
     "html-webpack-plugin": "^5.5.0",
-    "husky": "^7.0.0",
+    "husky": "^8.0.0",
     "less": "^4.1.2",
     "less-loader": "^11.0.0",
     "lint-staged": "^12.3.5",
